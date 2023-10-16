@@ -40,12 +40,3 @@ Existing support only for MAC. Window and Linux versions will be available in th
 8. Open the Available Plugins window under the option tab. Click options -> Click Scan for new or updated AudioUnit plugins
 
 More docs to come.
-
-**Worflow**
-
-Types of tickets:
-- implementation
-- debugging/bugfix
-- testing
-- frontend
-- userstory
